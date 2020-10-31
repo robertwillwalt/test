@@ -1,7 +1,14 @@
-Edits 3-8-19 - 1:48pm
+Edits 10-31-20 - 1:11pm
+-----------------------
+Ideas for programs:
+-Calculator (To what extent?)
+-Palm wars (Gui difficulty)
+-Multi Lang Clock (GUI + Connecting)
+-Sleeping Collect Database (Extent?)
+
 ---------------------
 Ideas for stories:
--Alien invasion   (lame)
+-Alien invasion (lame)
 -Awaking of the Dead (mild)
 -Beast Feast Only during the Night (hmmmmm)
 -Plague (complicaed)
